@@ -1,0 +1,1 @@
+This is about Exploratory Data Analysis of Instagram Influencers data. Here I have done EDA process to make the data ready for ML model training. I have also made an analysis like correlation between data, identifying the frequency distribution of each feature and relationship between the features.
